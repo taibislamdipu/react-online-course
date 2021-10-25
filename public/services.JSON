@@ -1,0 +1,86 @@
+[
+    {
+        "id": "101",
+        "title": "Emotional Intelligence: A Guide for Excellence in Personal & Professional Life",
+        "price": 480,
+        "image": "https://i.imgur.com/zSO8QRa.png"
+    },
+    {
+        "id": "102",
+        "title": "Career Track: Full Stack Digital Marketing",
+        "price": 10000,
+        "image": "https://i.imgur.com/dsL3nPB.png"
+    },
+    {
+        "id": "103",
+        "title": "GRE Verbal Preparation",
+        "price": 2100,
+        "image": "https://i.imgur.com/9h0cypl.png"
+    },
+    {
+        "id": "104",
+        "title": "Data Structures And Algorithms",
+        "price": 2000,
+        "image": "https://i.imgur.com/2qfUWsS.png"
+    },
+    {
+        "id": "105",
+        "title": "IELTS Complete Preparation: Academic & General",
+        "price": 3000,
+        "image": "https://i.imgur.com/Ztbexrn.png"
+    },
+    {
+        "id": "106",
+        "title": "Macros & VBA for Excel Automation",
+        "price": 1500,
+        "image": "https://i.imgur.com/bMbYzOS.png"
+    },
+    {
+        "id": "107",
+        "title": "Python for Beginners",
+        "price": 750,
+        "image": "https://i.imgur.com/VbnyLkV.png"
+    },
+    {
+        "id": "108",
+        "title": "Emotional Intelligence: A Guide for Excellence in Personal & Professional Life",
+        "price": 480,
+        "image": "https://i.imgur.com/zSO8QRa.png"
+    },
+    {
+        "id": "109",
+        "title": "Career Track: Full Stack Digital Marketing",
+        "price": 10000,
+        "image": "https://i.imgur.com/dsL3nPB.png"
+    },
+    {
+        "id": "110",
+        "title": "GRE Verbal Preparation",
+        "price": 2100,
+        "image": "https://i.imgur.com/9h0cypl.png"
+    },
+    {
+        "id": "111",
+        "title": "Data Structures And Algorithms",
+        "price": 2000,
+        "image": "https://i.imgur.com/2qfUWsS.png"
+    },
+    {
+        "id": "112",
+        "title": "IELTS Complete Preparation: Academic & General",
+        "price": 3000,
+        "image": "https://i.imgur.com/Ztbexrn.png"
+    },
+    {
+        "id": "113",
+        "title": "Macros & VBA for Excel Automation",
+        "price": 1500,
+        "image": "https://i.imgur.com/bMbYzOS.png"
+    },
+    {
+        "id": "114",
+        "title": "Python for Beginners",
+        "price": 750,
+        "image": "https://i.imgur.com/VbnyLkV.png"
+    }
+]

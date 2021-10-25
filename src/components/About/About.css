@@ -1,0 +1,23 @@
+
+
+
+.about-title{
+    background-color: #6427F4;
+    color: white;
+    
+}
+
+.about-half-width{
+    height: 500px;
+}
+
+.about-card{
+    
+    height: 500px;
+    border-radius: 7px;
+}
+
+.about-card p{
+    text-align: justify;
+}
+
